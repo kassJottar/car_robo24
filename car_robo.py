@@ -8,7 +8,7 @@ def frente(A1, A2, B1, B2, t):
     B2.off()
     sleep_ms(t)
 #reversa
-def rev (A1, A2, B1, B2, t):
+def reversa (A1, A2, B1, B2, t):
         A1.off()
         B1.on()
         A2.off()
